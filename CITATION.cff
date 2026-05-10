@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "robots-txt-validator"
+abstract: "Validates whether the major LLM crawlers are allowed by a robots.txt file."
+authors:
+  - family-names: "Heidfeld"
+    given-names: "Tim"
+    orcid: "https://orcid.org/0009-0008-2133-2625"
+    affiliation: "Northbridge Systems GmbH"
+repository-code: "https://github.com/northbridge-systems/robots-txt-validator"
+url: "https://www.northbridgesystems.de/de/"
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-10"
+keywords:
+  - "compliance-geo"
+  - "generative-engine-optimization"
+  - "llm-crawlers"
+  - "robots-txt"
+  - "rfc-9309"
